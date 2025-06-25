@@ -1,2 +1,2 @@
 # MP2025
-Homework for mathmetical practice 2025 in ZheJiang University.
+Homework for mathematical practice 2025 in ZheJiang University.
